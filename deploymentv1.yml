@@ -21,7 +21,7 @@ spec:
         image: jenkins:1.642.4
         ports:
         - containerPort: 8080
-          
+          protocol: TCP
 
 
 
